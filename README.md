@@ -4,7 +4,7 @@ My name is Myrto Deligianni and currently I'm an Undergraduate Student at CEID -
 
 📃[CV](CV_Deligianni_Myrto.pdf)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myrtwdel&hide_progress=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myrtwdel&hide_progress=true) -->
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myrtwdel&theme=material_palenight) -->
 
