@@ -4,10 +4,11 @@ My name is Myrto Deligianni and currently I'm an Undergraduate Student at CEID -
 
 📃[CV](CV_Deligianni_Myrto.pdf)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myrtwdel&hide_progress=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myrtwdel&hide_progress=true) -->
 
- <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myrtwdel&theme=material_palenight) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myrtwdel&theme=material_palenight) -->
 
+<!--
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -24,3 +25,4 @@ My name is Myrto Deligianni and currently I'm an Undergraduate Student at CEID -
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a></p>
+-->
