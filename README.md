@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My name is Myrto Deligianni and currently I'm an Undergraduate Student at CEID - University of Patras.
+My name is Myrto Deligianni and I'm an Undergraduate Student at CEID - University of Patras.
+Motivated to explore the field of Computer Engineering, with hands-on experience in software and hardware projects.
 
 📃[CV](CV_Deligianni_Myrto.pdf)
 
