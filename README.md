@@ -8,7 +8,7 @@ Motivated to explore the field of Computer Engineering, with hands-on experience
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myrtwdel&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myrtwdel&theme=material_palenight) 
+ <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myrtwdel&theme=material_palenight) -->
 
 <!--
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
