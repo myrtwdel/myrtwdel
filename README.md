@@ -6,6 +6,7 @@ Motivated to explore the field of Computer Engineering, with hands-on experience
 📃[CV](CV_Deligianni_Myrto.pdf)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myrtwdel&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myrtwdel&size_weight=0.5&count_weight=0.5)
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myrtwdel&theme=material_palenight) -->
 
