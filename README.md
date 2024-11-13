@@ -5,7 +5,6 @@ Motivated to explore the field of Computer Engineering, with hands-on experience
 
 📃[CV](CV_Deligianni_Myrto.pdf)
 
-![Myrto's GitHub stats](https://github-readme-stats.vercel.app/api?username=myrtwdel&show_icons=true&theme=radical)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myrtwdel&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
  <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myrtwdel&theme=material_palenight) -->
